@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-![Kpangan-XD](https://github.com/Kpangan-XD/Kpangan-XD/blob/main/pianda.jpeg)
+![Kpangan-XD](https://github.com/Kpangan-XD/Kpangan-XD/blob/main/pianda2.jpeg)
 
 ## ISF Inpianda Software Foundation
 

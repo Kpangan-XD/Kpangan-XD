@@ -6,12 +6,18 @@
 i primarily code in C++ only !defined(C) and some Assembly, on January 2026 and still learn.
 and if you talk about my learn programming, i only learn 2 programming language, and a another language will later.
 
+## Another me
+* BDE Version - Bad English Version : i still learn english, yea please like my english hahhaa.
+* ME Version  - Myself Version : i write code, and not good to ISO Foundation, yeah no stability, have bug, and i write this to warning another programming.
+* STD Version - Standard Version : Senior Programming and ME, or another skilled programming have to stability and repair the bug in my code, Thanks !!, and i write this to describe.
+
+## About ME !!!
 i'm a biggest fan of Low level Programming, and building my first OS \
 * Inpianda-OS [Inpianda-OS]()
 
 And i also create 2 Project to, 
 * ISF Cplus (primarily C+) [ISF-Cplus]()
-* Wrapper ESP32 (Soon!) [ESP-IDF]()
+* ESP-ISF (Wrapper ESP32) (Soon!) [ESP-ISF]()
 
 if you wonder why have ISF (Inpianda Software Foundation) and another like "Inpianda" ?
 i create Inpianda for copyright, and this my company or anything !!!

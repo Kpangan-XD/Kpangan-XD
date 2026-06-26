@@ -1,7 +1,10 @@
 ## Welcome 👋
 
-## ISF Inpianda Software Foundation
+## Introduction
+My virtual name * Kpangan Zkxfsd
+           Name * Bima 
 
+## ISF Inpianda Software Foundation
 i primarily code in C++ only !defined(C) and some Assembly, on January 2026 and still learn.
 and if you talk about my learn programming, i only learn 2 programming language, and a another language will later.
 

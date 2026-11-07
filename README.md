@@ -25,6 +25,10 @@ if you wonder why have ISF (Inpianda Software Foundation) and another like "Inpi
 i create Inpianda for copyright, and this my company or anything !!!
 And This Github will have 2, like Kpangan-XD and Inpianda-Github !!!
 
+
+<!--
+
+
 ## Main Device
 * Handphone      : Redmi 10c Snapdragon 680 4/128GB
 * Laptop 1       : Lenovo Ideapad Slim 3 14IRU8 (i3 1315U 8/512GB SSD NVME)
@@ -39,7 +43,13 @@ And This Github will have 2, like Kpangan-XD and Inpianda-Github !!!
 ![Kpangan-XD](https://github.com/Kpangan-XD/Kpangan-XD/blob/main/pianda2.jpeg)
 
 
-<!--
+
+
+
+
+
+
+
 **Kpangan-XD/Kpangan-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
